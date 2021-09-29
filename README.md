@@ -2,7 +2,7 @@
 
 ### A curious and passionate Developer. I like to develop new applications and learning technologies!
 
-- 👨‍💻 My portfolio website [https://maddyjolly2112.github.io/](Resume)
+- 👨‍💻 My portfolio website [https://maddyjolly2112.github.io/](https://maddyjolly2112.github.io/)
 - 💻 I'm a graduate majoring in Computer Science From DAVIET, India
 - 🌱 I’m currently working with ReactJs, Redux, Material UI
 - 👯 I’m looking to collaborate with other content creators and freelancing projects for 10-20 hours per week

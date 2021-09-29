@@ -17,7 +17,7 @@
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/html5.svg" />](https://www.w3.org/html)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/css3.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img align="left" alt="CSS3" width="26px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/css3.svg" />](https://www.w3.org/Style/CSS/Overview.en.html)
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/bootstrap.svg" />](https://getbootstrap.com)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/javascript.svg" />](https://www.javascript.com)
 [<img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/react.svg" />](https://reactjs.org)

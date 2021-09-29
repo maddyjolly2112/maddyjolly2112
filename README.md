@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mandeep Singh
 
-### A curious and passionate Developer. I like to develop new applications and learning technologies!
+### A curious and passionate Developer. I like to develop new applications and learn technologies!
 
 - 👨‍💻 My portfolio website [https://maddyjolly2112.github.io/](https://maddyjolly2112.github.io/)
 - 💻 I'm a graduate majoring in Computer Science From DAVIET, India

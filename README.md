@@ -37,4 +37,5 @@
 ---
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=maddyjolly2112&count_private=true&show_icons=true&hide_border=true)](https://github.com/maddyjolly2112)
+<a href="https://info.flagcounter.com/maddyjolly2112"><img src="https://s11.flagcounter.com/count2/maddyjolly2112/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_50/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 

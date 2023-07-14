@@ -4,7 +4,7 @@
 
 - 👨‍💻 My portfolio website [https://maddyjolly2112.github.io/](https://maddyjolly2112.github.io/)
 - 💻 I'm a graduate majoring in Computer Science
-- 🌱 I’m currently working with ReactJs, Redux, Material UI
+- 🌱 I have good experience working with ReactJs, Redux, Material UI, Angular, ngRX
 - 👯 I’m looking to collaborate with other content creators and freelancing projects for 10-20 hours per week
 - ⚡ Fun fact: I love coding and watch web series and movies
 - 📫 Reach me at <a href="mailto:maddyjolly2112@gmail.com">Email me</a>
